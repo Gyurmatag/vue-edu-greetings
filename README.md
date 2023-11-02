@@ -5,4 +5,4 @@ To start this project you need to run:
 
 and then
 
-```npm run dev```s
+```npm run dev```
